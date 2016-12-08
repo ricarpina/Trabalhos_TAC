@@ -1,0 +1,7 @@
+_initSPI: CODE, 1573 0 23
+_delay: CODE, 1662 0 71
+_readStatus: CODE, 1624 0 38
+_lerByteEEPROM: CODE, 1733 0 95
+_main: CODE, 1828 0 106
+_escreveByteEEPROM: CODE, 1934 0 114
+Total: 447

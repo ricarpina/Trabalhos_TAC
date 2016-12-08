@@ -1,0 +1,20 @@
+___ftneg: CODE, 3477 0 14
+___ftpack: CODE, 3967 0 129
+_main: CODE, 21 0 714
+___lwtoft: CODE, 3598 0 27
+_RS232Tx: CODE, 1989 0 55
+___ftadd: CODE, 735 0 326
+_SPI_Config: CODE, 3549 0 23
+___lmul: CODE, 3702 0 76
+___lbtoft: CODE, 3625 0 33
+___ftmul: CODE, 1061 0 238
+___awtoft: CODE, 3658 0 44
+_convert_temp: CODE, 1829 0 160
+_RSI: CODE, 3491 0 17
+___altoft: CODE, 3778 0 77
+___fttol: CODE, 1499 0 166
+___ftge: CODE, 3855 0 112
+_Rs232Conf: CODE, 1665 0 164
+___bmul: CODE, 3572 0 26
+___ftdiv: CODE, 1299 0 200
+Total: 2601
